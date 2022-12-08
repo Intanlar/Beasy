@@ -1,0 +1,111 @@
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.csproj.AssemblyReference.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.Properties.Resources.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.csproj.GenerateResource.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfoInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfo.cs
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CoreCompileInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BeasyApp.AuthPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BeasyApp.ShowPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\BEASYapp.exe
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\BEASYapp.deps.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\BEASYapp.runtimeconfig.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BeasyApp.DataPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CopyComplete
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\refint\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\BEASYapp.genruntimeconfig.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\YAMApp\obj\Debug\net6.0-windows\ref\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.exe
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.deps.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.runtimeconfig.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.AssemblyReference.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.AuthPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.DataPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.Properties.Resources.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.ShowPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.GenerateResource.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfoInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfo.cs
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CoreCompileInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CopyComplete
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\refint\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.genruntimeconfig.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\Garasi Bus\Garasi Bus\BeasyApp\obj\Debug\net6.0-windows\ref\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.exe
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.deps.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.runtimeconfig.json
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.AssemblyReference.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.AuthPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.DataPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.Properties.Resources.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BeasyApp.ShowPage.resources
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.GenerateResource.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfoInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.AssemblyInfo.cs
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CoreCompileInputs.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.csproj.CopyComplete
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\refint\BEASYapp.dll
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.pdb
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\BEASYapp.genruntimeconfig.cache
+E:\My Document\KULIAH\Semester 3\PBO\Project Akhir\BEASY\BeasyApp\obj\Debug\net6.0-windows\ref\BEASYapp.dll
